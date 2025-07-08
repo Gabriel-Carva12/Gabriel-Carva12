@@ -1,16 +1,14 @@
-## Hi t ahere 👋
+Olá, aqui está 👋
 
+Gabriel-Carva12/Gabriel-Carva12 é um repositório ✨ especialREADME.md ✨ porque (este arquivo) aparece no seu perfil do GitHub.
 
-**Gabriel-Carva12/Gabriel-Carva12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CURRÍCULO
 
-Here are some ideas to get you started:
-
-- 🔭 Estou trabalhando com aulas de programção de web 
-- 🌱 I’m currently learning desenvolvimento de sistemas do sena
-- 👯 estou colaborando com minha equipe de crição de sistemas 
-- 🤔 Eu estou procuransdo ajuda com desenvolviment para minha equipe 
-- 💬 Ask me about programção de web
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...ele/Dele
-- ⚡ Fun fact: ...
-
+🔭 Estou trabalhando com aulas de programação de web
+🌱 Atualmente estou aprendendo desenvolvimento de sistemas do sena
+👯 estou colaborando com minha equipe de criação de sistemas
+🤔 Eu estou procurando ajuda com desenvolvimento para minha equipe
+💬 Pergunte-me sobre programação de web
+📫 Como entrar em contato comigo: …
+😄 Pronomes: …ele/Dele
+⚡ Curiosidade: …
